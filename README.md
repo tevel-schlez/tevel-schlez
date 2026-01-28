@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi there 👋
+I'm Tevel, a Software Engineering student at Ben-Gurion University. 
+I work with C, C++, Java, OCaml and enjoy breaking down complex problems and exploring new technologies, and always striving to learn, grow and expand my knowledge.
+Hope you enjoy taking a look around! 👀
 
 <!--
 **tevel-schlez/tevel-schlez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
